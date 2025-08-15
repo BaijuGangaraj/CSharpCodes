@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompetencyAssessment", "CompetencyAssessment\CompetencyAssessment.csproj", "{00A178FE-7312-4328-86AF-45BCE0D93422}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BL", "BL", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLCompetencyAssessment", "BLCompetencyAssessment\BLCompetencyAssessment.csproj", "{530C7D38-CE8B-4B7B-9B0B-25AF37F1729A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DL", "DL", "{18C58083-AB56-42D8-86DB-38E4FA00602C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLCompetencyAssessment", "DLCompetencyAssessment\DLCompetencyAssessment.csproj", "{F182EA96-E076-4787-9DF0-CE99459A2131}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UL", "UL", "{D6C000F5-A3CA-4637-92C2-59EC3AA776D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ULCompetencyAssessment", "ULCompetencyAssessment\ULCompetencyAssessment.csproj", "{218F8B4E-166D-4035-960E-B26557C7BB52}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UTL", "UTL", "{3CA7A65D-487E-47F7-B707-37F6F06C92B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTLComptenecyAssessment", "UTLComptenecyAssessment\UTLComptenecyAssessment.csproj", "{FC56CBAF-2D63-4AC9-BB71-AC5889436304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A178FE-7312-4328-86AF-45BCE0D93422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A178FE-7312-4328-86AF-45BCE0D93422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A178FE-7312-4328-86AF-45BCE0D93422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A178FE-7312-4328-86AF-45BCE0D93422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{530C7D38-CE8B-4B7B-9B0B-25AF37F1729A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{530C7D38-CE8B-4B7B-9B0B-25AF37F1729A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{530C7D38-CE8B-4B7B-9B0B-25AF37F1729A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{530C7D38-CE8B-4B7B-9B0B-25AF37F1729A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F182EA96-E076-4787-9DF0-CE99459A2131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F182EA96-E076-4787-9DF0-CE99459A2131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F182EA96-E076-4787-9DF0-CE99459A2131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F182EA96-E076-4787-9DF0-CE99459A2131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{218F8B4E-166D-4035-960E-B26557C7BB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218F8B4E-166D-4035-960E-B26557C7BB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218F8B4E-166D-4035-960E-B26557C7BB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218F8B4E-166D-4035-960E-B26557C7BB52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC56CBAF-2D63-4AC9-BB71-AC5889436304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC56CBAF-2D63-4AC9-BB71-AC5889436304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC56CBAF-2D63-4AC9-BB71-AC5889436304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC56CBAF-2D63-4AC9-BB71-AC5889436304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{530C7D38-CE8B-4B7B-9B0B-25AF37F1729A} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{F182EA96-E076-4787-9DF0-CE99459A2131} = {18C58083-AB56-42D8-86DB-38E4FA00602C}
+		{218F8B4E-166D-4035-960E-B26557C7BB52} = {D6C000F5-A3CA-4637-92C2-59EC3AA776D0}
+		{FC56CBAF-2D63-4AC9-BB71-AC5889436304} = {3CA7A65D-487E-47F7-B707-37F6F06C92B8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BD8C554-63E9-4447-A685-51FB44A6A5A8}
+	EndGlobalSection
+EndGlobal

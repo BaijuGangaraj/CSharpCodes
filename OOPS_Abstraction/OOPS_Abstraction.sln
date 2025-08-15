@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPS_Abstraction_Multiple In", "OOPS_Abstraction\OOPS_Abstraction_Multiple In.csproj", "{279775A8-986E-4601-A65A-F031FC758D9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{279775A8-986E-4601-A65A-F031FC758D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279775A8-986E-4601-A65A-F031FC758D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279775A8-986E-4601-A65A-F031FC758D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279775A8-986E-4601-A65A-F031FC758D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {007AE916-038B-4626-9D82-66F5C99ED10E}
+	EndGlobalSection
+EndGlobal
